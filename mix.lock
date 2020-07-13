@@ -1,0 +1,5 @@
+%{
+  "castore": {:hex, :castore, "0.1.6", "2da0dccb3eacb67841d11790598ff03cd5caee861e01fad61dce1376b5da28e6", [:mix], [], "hexpm", "f874c510b720d31dd6334e9ae5c859a06a3c9e67dfe1a195c512e57588556d3f"},
+  "jason": {:hex, :jason, "1.2.1", "12b22825e22f468c02eb3e4b9985f3d0cb8dc40b9bd704730efa11abd2708c44", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "b659b8571deedf60f79c5a608e15414085fa141344e2716fbd6988a084b5f993"},
+  "mint": {:hex, :mint, "1.1.0", "1fd0189edd9e3ffdbd7fcd8bc3835902b987a63ec6c4fd1aa8c2a56e2165f252", [:mix], [{:castore, "~> 0.1.0", [hex: :castore, repo: "hexpm", optional: true]}], "hexpm", "5bfd316c3789340b682d5679a8116bcf2112e332447bdc20c1d62909ee45f48d"},
+}
